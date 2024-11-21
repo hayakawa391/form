@@ -11,12 +11,12 @@ Laravel環境構築
 4.php artisan key:generate
 5.php artisan migrate
 6.php artisan db:seed
-##使用技術
+###使用技術
 ・php 8.3.9 
 ・Laravel 8.83.28
 ・MySQL 15.1
-##ER図
+####ER図
 
-##URL
+#####URL
 ・開発環境 http://localhost/
 ・phpMyAdmin http://localhost:8080/
